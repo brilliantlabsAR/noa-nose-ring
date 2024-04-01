@@ -61,8 +61,9 @@ To begin using the AI Nose Ring, follow these simple steps:
 - **Dimensions**: 25mm diameter, 10mm thickness
 - **Weight**: 10 grams
 
-## Conclusion
 
+## Conclusion
+![Nose ring](img/nose_ring.jpg)
 The AI Nose Ring represents the next frontier in sensory augmentation, empowering users to experience the world in entirely new ways. Whether you're seeking to improve your health and well-being, monitor your environment, or simply enjoy personalized olfactory experiences, the AI Nose Ring is your gateway to a richer, more immersive reality. Try it today and discover a new dimension of sensory exploration!
 
 #####  April Fools 👻
